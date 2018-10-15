@@ -22,6 +22,8 @@ write the definition for these 2 functions, an example main function that calls 
 The format of the text file will be as below.
 
 john 1 2 3 4 5
+
 paulc 4 5 6
+
 jo 1 9 8
 
