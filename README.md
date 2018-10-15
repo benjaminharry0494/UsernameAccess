@@ -1,4 +1,7 @@
 # UsernameAccess
+
+Relevant files found in Main.h, Main.cpp, User.h, User.cpp. text.txt is simply the text from down below in an associated word document.
+
 Part 2)
 
 
