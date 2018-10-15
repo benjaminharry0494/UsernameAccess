@@ -1,0 +1,11 @@
+﻿  Main.cpp
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(42): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(167): warning C4018: '<': signed/unsigned mismatch
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(227): warning C4018: '<': signed/unsigned mismatch
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(145): warning C4715: 'init_access': not all control paths return a value
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(179): warning C4715: 'incorrect_input': not all control paths return a value
+d:\files and installers\games group project yr 3\fromfilesolution\fromfilesolution\main.cpp(259): warning C4715: 'has_access': not all control paths return a value
+  FromFileSolution.vcxproj -> D:\Files and Installers\Games Group Project Yr 3\FromFileSolution\Debug\FromFileSolution.exe
+  FromFileSolution.vcxproj -> D:\Files and Installers\Games Group Project Yr 3\FromFileSolution\Debug\FromFileSolution.pdb (Full PDB)
